@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/26 22:45:03.000.436,C:\Users\leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\business.dproj</Transaction>
+    <Transaction>2024/07/27 00:40:44.000.008,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 00:45:56.000.174,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\ProvidersConnection.pas</Transaction>
+    <Transaction>2024/07/27 00:45:56.000.174,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\ProvidersConnection.dfm</Transaction>
+    <Transaction>2024/07/27 00:46:37.000.293,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\ProvidersConnection.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Providers.Connection.pas</Transaction>
+    <Transaction>2024/07/27 00:46:37.000.293,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\ProvidersConnection.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Providers.Connection.dfm</Transaction>
+    <Transaction>2024/07/27 00:47:54.000.589,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Providers.Connection.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers.Connection.dfm</Transaction>
+    <Transaction>2024/07/27 00:47:54.000.589,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Providers.Connection.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers.Connection.pas</Transaction>
+    <Transaction>2024/07/27 00:49:16.000.228,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers.Connection.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers_Connection.dfm</Transaction>
+    <Transaction>2024/07/27 00:49:16.000.228,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers.Connection.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers_Connection.pas</Transaction>
+    <Transaction>2024/07/27 14:15:23.000.411,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 14:16:31.000.665,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers_Cadastro.dfm</Transaction>
+    <Transaction>2024/07/27 14:16:31.000.665,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\providers\Providers_Cadastro.pas</Transaction>
+    <Transaction>2024/07/27 16:33:51.000.300,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 16:36:32.000.156,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Service_Produto.pas</Transaction>
+    <Transaction>2024/07/27 16:36:32.000.156,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Service_Produto.dfm</Transaction>
+    <Transaction>2024/07/27 16:37:43.000.891,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Service_Produto.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Produto.pas</Transaction>
+    <Transaction>2024/07/27 16:37:43.000.891,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Service_Produto.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Produto.dfm</Transaction>
+    <Transaction>2024/07/27 17:22:02.000.233,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/27 17:23:11.000.741,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\controllers\Controllers_Produto.pas</Transaction>
+    <Transaction>2024/07/30 14:43:17.000.553,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/30 14:43:52.000.077,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Cliente.pas</Transaction>
+    <Transaction>2024/07/30 14:43:52.000.077,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Cliente.dfm</Transaction>
+    <Transaction>2024/07/30 15:01:00.000.995,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/30 15:01:21.000.085,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\controllers\Controllers_Cliente.pas</Transaction>
+    <Transaction>2024/07/30 21:42:19.000.486,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/30 21:43:05.000.693,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Pedido.dfm</Transaction>
+    <Transaction>2024/07/30 21:43:05.000.693,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Pedido.pas</Transaction>
+    <Transaction>2024/07/30 21:47:54.000.083,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/07/30 21:48:16.000.874,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\controllers\Controllers_Pedido.pas</Transaction>
+    <Transaction>2024/08/02 11:34:37.000.747,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 11:35:23.000.959,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Pedido_Item.pas</Transaction>
+    <Transaction>2024/08/02 11:35:23.000.959,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Pedido_Item.dfm</Transaction>
+    <Transaction>2024/08/02 13:47:25.000.871,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/08/02 13:47:49.000.520,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\controllers\Controllers_Pedido_Item.pas</Transaction>
+    <Transaction>2024/08/07 00:37:34.000.275,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/08/07 00:39:38.000.112,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.dfm=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Usuario.dfm</Transaction>
+    <Transaction>2024/08/07 00:39:38.000.111,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\services\Services_Usuario.pas</Transaction>
+    <Transaction>2024/08/07 00:50:39.000.282,=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas</Transaction>
+    <Transaction>2024/08/07 00:51:01.000.419,C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\Unit1.pas=C:\Users\leandro\Documents\repos\Treinamento_Api_Delphi\ProjetoCurso\src\controllers\Controllers_Usuario.pas</Transaction>
+  </Transactions>
+</BorlandProject>
