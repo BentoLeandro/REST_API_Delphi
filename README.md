@@ -2,6 +2,8 @@
 Este projeto foi desenvolvido para realizar operações CRUD (Create, Read, Update, Delete) em um banco de dados Postgres, 
 utilizando Delphi como a linguagem de programação. A API segue o padrão REST e emprega tecnologias modernas, como Horse, 
 JWT para autenticação, e várias bibliotecas auxiliares para otimizar a manipulação de dados e tratamento de exceções.
+O projeto foi desenvolvido utilizando conceitos de herança, o que permitiu a criação de uma arquitetura mais limpa e 
+modular, promovendo o reuso de código e facilitando a manutenção.
 
 ## Tecnologias Utilizadas
 - Horse: Framework minimalista para a construção de APIs RESTful em Delphi.
